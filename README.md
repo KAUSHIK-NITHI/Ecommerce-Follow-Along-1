@@ -176,3 +176,17 @@ Summary : Created an profile page with the user details like name ,address ,etc.
 Tech Stack : Backend - controller - user.js,
 Frontend - components - AddressCard.jsx, NavBar.jsx,
 pages - Profile.jsx
+
+# Milestone 21 : In this milstone, we will create a input form for get address as input
+Key feautures :
+Create an frontend form that will will take address.
+Take country, city, address1, address2, zip code, address type
+create address form frontend page
+Create an state that will store input address
+when we click on add address in profile it should navigate to this form page.
+
+# Milestone 22: In this milstone, we will create an backend endpoint that will save the address inside user profile in database.
+Key feautures : 
+Create an backend endpoint that will store the address inside user profile in database.
+You need to create an endpoint that will receive the address from address form in frontend
+Add the address to the address array inside user collection.

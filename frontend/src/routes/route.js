@@ -6,5 +6,5 @@ import MyProducts from "../pages/myProduct";
 import Cart from "../pages/Cart";
 import Profile from "../pages/profile";
 import ProductDetails from "../pages/ProductDetails";
-
-export {LoginPage, SignupPage, Home, CreateProduct, MyProducts, Cart, ProductDetails, Profile}; 
+import CreateAddress from "../pages/CreateAddress";
+export {LoginPage, SignupPage, Home, CreateProduct, MyProducts, Cart, ProductDetails, Profile,CreateAddress}; 
